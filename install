@@ -1,6 +1,0 @@
-#!/bin/bash
-# My first script
-
-sudo apt-get update 
-sudo apt-get upgrade
-echo "pronto!"
